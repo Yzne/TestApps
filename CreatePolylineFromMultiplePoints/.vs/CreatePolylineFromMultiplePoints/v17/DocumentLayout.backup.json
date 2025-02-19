@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yznsa\\source\\repos\\TestApplication\\CreatePolylineFromMultiplePoints\\",
+  "WorkspaceRootPath": "C:\\Users\\yznsa\\source\\repos\\Yzne\\TestApps\\CreatePolylineFromMultiplePoints\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F9CF16F-9E24-4379-AD52-F5DCE1DBC797}|CreatePolylineFromMultiplePoints\\CreatePolylineFromMultiplePoints.csproj|c:\\users\\yznsa\\source\\repos\\testapplication\\createpolylinefrommultiplepoints\\createpolylinefrommultiplepoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F9CF16F-9E24-4379-AD52-F5DCE1DBC797}|CreatePolylineFromMultiplePoints\\CreatePolylineFromMultiplePoints.csproj|c:\\users\\yznsa\\source\\repos\\yzne\\testapps\\createpolylinefrommultiplepoints\\createpolylinefrommultiplepoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F9CF16F-9E24-4379-AD52-F5DCE1DBC797}|CreatePolylineFromMultiplePoints\\CreatePolylineFromMultiplePoints.csproj|solutionrelative:createpolylinefrommultiplepoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yznsa\\source\\repos\\TestApplication\\CreatePolylineFromMultiplePoints\\CreatePolylineFromMultiplePoints\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\yznsa\\source\\repos\\Yzne\\TestApps\\CreatePolylineFromMultiplePoints\\CreatePolylineFromMultiplePoints\\Program.cs",
               "RelativeDocumentMoniker": "CreatePolylineFromMultiplePoints\\Program.cs",
-              "ToolTip": "C:\\Users\\yznsa\\source\\repos\\TestApplication\\CreatePolylineFromMultiplePoints\\CreatePolylineFromMultiplePoints\\Program.cs",
+              "ToolTip": "C:\\Users\\yznsa\\source\\repos\\Yzne\\TestApps\\CreatePolylineFromMultiplePoints\\CreatePolylineFromMultiplePoints\\Program.cs",
               "RelativeToolTip": "CreatePolylineFromMultiplePoints\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T17:57:32.695Z",
               "EditorCaption": ""
